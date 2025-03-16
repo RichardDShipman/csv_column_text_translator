@@ -1,5 +1,4 @@
 Code,Language
-ACR,Albanian
 AR,Arabic
 ATL,Atlantean
 BE,Belarusian
@@ -56,6 +55,7 @@ OTL,The Old Tongue
 PA,Punjabi
 PL,Polish
 PRT,Parseltongue
+
 RO,Romanian
 R2D,Droid Speak (R2-D2)
 RU,Russian
@@ -64,6 +64,7 @@ SNA,Simlish
 SK,Slovak
 SL,Slovenian
 SNO,Shyriiwook
+SQ,Albanian
 SR,Serbian
 SV,Swedish
 SW,Swahili
