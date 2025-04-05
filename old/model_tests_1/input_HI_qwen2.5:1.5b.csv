@@ -1,0 +1,40 @@
+column1,column2,column1_HI,column2_HI,column1_EN,column2_EN
+Gene,A gene is a sequence of DNA that contains the instructions for making a specific protein or RNA molecule. Genes are the basic units of heredity and are responsible for determining the traits of an organism.,गेन,जीन डेटा के एक सूची मानता है जो एक प्रतिकटावाहिक या रनेस्मेबल की अवसर को लेकर कमाता है। जीन ने मौजूदा संकल्पशालत विभिन्न प्रोटीन या रनेस्मेबलों की अवसर को तयार करने में शुद्ध करने के लिए कर दिया है। जीन समृद्धता के नक्वल और वैशिष्ट्य को खोजते हैं।,gen,Jin identifies a list of data that narrows down the opportunities for an ongoing project or fundraising. Jin removes preconceived notions and assesses qualities.
+Cell,"The cell is the fundamental structural and functional unit of life. All living organisms are made up of cells, which can be unicellular (single-celled organisms) or multicellular (such as plants and animals).",केली,"कोम्पनी का सबसे आधिकारिक पैराग्रह ही मौद्रीय चादर है। सभी जीवनी अंड के मेल को बनाने के लिए है, इसमें कोम्पनी (कुनले-चेतिक प्रजनक) या सब्जिशंपे विषय को मिलता है।",kelli,"The company's primary tool is the financial gate. It enables the formation of human relationships, where a company (cultist founder) or consumer market object comes into play."
+DNA,"DNA (deoxyribonucleic acid) is a molecule that carries the genetic instructions used in the growth, development, and functioning of all living organisms. It consists of two strands that coil around each other to form a double helix.",दNA,DNA धनिया सीधार्थीको आला हुन बेहद जगत मे प्रमाण पहुंच र नैरूप छ। तीनो स्ट्रोंम को घिसने समाप्त भाग कोलरा सुधार देली पसंद आकार नाकत एक दोहरी डब्ल्यू.,DNAT,"DNA became a global sensation in the way it expanded three worlds and enhanced the color of its most inferior part, which was like adding another layer to a sandwich."
+RNA,"RNA (ribonucleic acid) is a molecule similar to DNA but typically single-stranded. RNA plays a key role in translating the genetic information from DNA into proteins, with types such as mRNA, tRNA, and rRNA.",RNA (मैक्रोड्राइजेट रना),"रNA (डिस्ट्रीब्वॉलेशन एमाको अहक) डिझीपर गुंसो एमाको मालप साइट ना भारत। फ़्रेम्यूज ट्रैनल को डिस्ट्रीब्वॉलेशन अहक प्रणालीमा पुद्धफक्त गर्छ, मा मधुर संख्यामा एस्ज़ोमैटिक फ़्रेम्यूज (एल ट्रैनल), डी कॅयान्स फ़्रेम्यूज, र आंड्रा-रोबेर्ट स्किपस्ट फ़्रेम्यूज वाह पदाहित हुन।",mRNA (master regulator RNA),"The NA (distribution management system) is not located in India. The distribution network train line employs a distribution strategy, including the smooth satellite network (LTE), data centers network, and Andra-Robert Skypes network with added features."
+Protein,"Proteins are large, complex molecules made up of amino acids. They perform a vast array of functions within organisms, including catalyzing reactions (enzymes), providing structure to cells, and regulating biological processes.",प्रोटीन,"प्रोटीन एक बड़ा, संयुक्त वस्फे है जिसमें पानीमूत्रिय धामक द्वारा संरचित किया गया है। उनमें बहुत मोटे कला भी है, जिनमें प्रसव (एन्क्लोइम) कारक काम करते हैं, वास्तुकंप्यूटर का स्थापना करते हैं और प्राणी मानसिक प्रक्रिया को संचयण करते हैं।",protein,"Protein is a large, multifunctional assembly that has been constructed by placing amino acids via the peptide bond. It also contains very numerous catalysts (enzymes), computer networks for data storage, and biological reactions assemblers."
+Enzyme,"Enzymes are biological catalysts that speed up chemical reactions in living organisms. They are typically proteins that lower the activation energy of a reaction, allowing it to proceed more quickly and efficiently.",अम्ल,एन्जेम्स वास्तविक बहुपद संक्रमणरोधी हैं जो जीवन के पृथ्वी में पड़ता ग्राहकों के कचरापासू को बढ़ावा देते हैं। उनमें सामान्यतः पौधे होते हैं जिससे कारण का इकटहानी कम करके प्रत्यावर्तित प्रयाणक कार्य को उतना अधिक सफ़ल में कर सकते हैं।,amla,"Enzymes are metabolic regulators that increase the burden on patients living in rural areas. They usually consist of plants, which reduce the intensity of physiological processes so that more successful outcomes can be achieved."
+Lipid,"Lipids are a diverse group of hydrophobic or amphipathic molecules that include fats, oils, phospholipids, and sterols. They serve as energy storage, structural components of cell membranes, and signaling molecules, and are essential for maintaining cell integrity and function.",लिपिड,"लिपिड्स एक परंपरागत समूह वायुमंची आणि मोदी केले जाते असा घटक ठेके होते, जिनमध्ये फिट्राम्स, एफँज्वी, पॉशनलिपिड आणि स्टर्लिश कस मिळवाता होता.
+
+ब्रह्मचारी:
+कुमार जी. चेरमेकी
+रंग: हर्वर्स
+दूषण: अनुभव, सुख, परिणाम एवं प्रत्यय
+
+स्ट्रिंग कॉड:
+public class Test {
+    public static void main(String[] args) {
+        System.out.println(""Hello World!"");
+    }
+}",lipid,"liquids form a periodic molecular pattern that is visible, causing it to appear.
+
+brahmacariya:
+kumāra ji. cheramakee
+color: harvors
+illness: experience, happiness, outcome
+
+string code:
+public class test {
+public static void main (string [] args) {
+System.out.println(""hello world!"");
+}"
+Glycan,"A glycan is a carbohydrate or saccharide, typically a polymer of sugar molecules, that can be attached to proteins or lipids in the form of glycosylation. Glycans are involved in a variety of biological processes, including cell-cell communication, immune response, and protein folding.",ग्लायन,"एक ग्लायन हल समतुलीय कॉरेन पर या शोरसिएड, जो व्यंजक दाबों के संयोजक तरंगों के प्रणाली में हल जाते हैं, डीजल ग्लोबलिटा समतुलीय को इस प्रणाली में हल सकती है।
+
+एक ग्लायन विभिन्न प्रोटोजीन या लीफड्रे को संदर्भ करने, कार्बोहाइड्रेट कंपॉरेशन में, आइसीए समतुलीय को विकसित करने का मुख्य प्रभाव है।",glycogen,"A glycan attaches to a target protein or lipid anchor. This arrangement enables the global solvation of the glycans in this system. A glycan affects various proteins and lipids, and is an important factor in the formation of sulfated sugar-based carbohydrate polymers.
+
+Glycans connect to multiple proteins or lipids and affect their synthesis through carbon dioxide polymerization."
+Chromosome,"A chromosome is a long, thread-like structure made of DNA and proteins. It carries the genetic information of an organism, and humans have 23 pairs of chromosomes in their cells.",chromosomes,"एक शॉर्कोमन (chromosome) एक लंबा, काठ परिवर्तित आकार होती है, जो प्रोटीनोस में DNA के साथ नहर रहती है। यह परमाणु का गुणवत्ता (genetic information) उड़ाता है, और जीन में 23 पक्षों के साथ बचपन में हमारी कटिमाँ प्रकृति में।",chromosomes,"A chromosome is a long, coiled structure consisting of DNA that does not associate with proteins. Its property (genetic information) floats free, and it keeps our grandmother's primate nature in 23 pairs during the embryonic stage."
+Mitochondria,"Mitochondria are organelles found in eukaryotic cells that are responsible for producing energy in the form of ATP. Often called the 'powerhouses' of the cell, mitochondria also play a role in regulating the cell cycle and cell growth.",मूँदी,"मोनोज़ोर्ड्री एक पशुके की वेलो स्थल हैं जिनमें समाहित क्षेत मारा जा सकता है। कुछ महत्वपूर्ण फ़रणों में, ब्राउफ़ेटिकस एक कला युद्ध रोग पर समय पौधे हो जाते हैं।
+
+This translation is in Hindi.",Mudii,"monotheism a place where one can seek out the sacred cow's quarters. several important factors, footrot is often associated with disease of cows."
