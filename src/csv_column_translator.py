@@ -2,6 +2,8 @@ import argparse
 import pandas as pd
 import ollama
 import time
+import os
+
 
 def get_language_name(language_code):
     """
@@ -149,7 +151,6 @@ def translate_text(text, target_lang, model):
 
     return response['message']['content'].strip()
 
-import pandas as pd
 
 def translate_csv(input_csv, columns, target_lang, model, back_translate=False):
     """
@@ -183,7 +184,6 @@ def translate_csv(input_csv, columns, target_lang, model, back_translate=False):
             df[new_col_name_en] = df[target_col_name].apply(lambda text: translate_text(text, "EN", model) if pd.notnull(text) else text)
 
     # Save the translated CSV file to model_tests folder inside test_data
-    import os
     
     output_dir = os.path.join("data", "model_tests")
     os.makedirs(output_dir, exist_ok=True)
