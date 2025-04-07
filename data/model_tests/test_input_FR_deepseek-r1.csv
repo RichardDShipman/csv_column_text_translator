@@ -1,0 +1,325 @@
+term,definition,term_FR_deepseek-r1,definition_FR_deepseek-r1
+Gene,A gene is a sequence of DNA that contains the instructions for making a specific protein or RNA molecule. Genes are the basic units of heredity and are responsible for determining the traits of an organism.,"<think>
+Okay, so I have this query where the user wants me to translate the word ""Gene"" into French. The instructions are pretty specific: output only the translation as a single continuous line without any line breaks or extra characters. Let me think about how to approach this.
+
+First off, I know that ""gene"" is a term from biology referring to a segment of DNA responsible for hereditary traits. In French, the direct translation would be ""gène."" But wait, sometimes in scientific contexts, people use ""génome"" which refers to the entire set of genes in an organism. However, here it's just ""Gene,"" so I think ""gène"" is appropriate.
+
+Now, the user wants only the translation without any line breaks or extra stuff. So I need to make sure that when I output it, there are no spaces or punctuation unless it's part of the word itself. In this case, ""gène"" is just one word, so it should come out as a single string.
+
+I also have to consider why the user is asking for this. Maybe they're working on a project involving genetics and need translations for multilingual documents. Or perhaps they're learning French and want to know how certain terms are translated. It's important that the translation is accurate and meets their requirement precisely.
+
+Additionally, I should ensure there's no markdown or any formatting beyond what's necessary. The user emphasized outputting only the translation in one continuous line. So my response should be straightforward without any additional text or symbols unless they're part of the term itself.
+
+I don't see any other nuances here since ""Gene"" is a straightforward scientific term and its French equivalent is universally recognized as ""gène."" There's no ambiguity, so I can confidently provide ""gène"" as the translation.
+</think>
+
+gène","<think>
+Okay, so I need to translate this English text about genes into French. Let me read it carefully first.
+
+""A gene is a sequence of DNA that contains the instructions for making a specific protein or RNA molecule."" Hmm, ""gene"" in French is ""gène"". ""Sequence of DNA"" would be ""séquence du ADN"". ""Contains the instructions"" could be ""contient les instructions"" or maybe ""contient les instructions de construction"". Then ""specific protein or RNA molecule""—so I think ""protéine ou transcripte"". Wait, ""RNA molecule"" is ""transcripte"", right?
+
+Next part: ""Genes are the basic units of heredity and are responsible for determining the traits of an organism."" So ""gènes sont les unités de base de l'héritabilité et sont responsables des caractéristiques d'un organisme."" That sounds good.
+
+Putting it all together, I need to make sure it's a single line without any breaks. Let me check each part again for accuracy.
+</think>
+
+A gène est une séquence du ADN contenant les instructions pour la construction d'une protéine ou d'une transcripte. Les gènes sont les unités de base de l'héritabilité et déterminent les caractéristiques d'un organisme."
+Cell,"The cell is the fundamental structural and functional unit of life. All living organisms are made up of cells, which can be unicellular (single-celled organisms) or multicellular (such as plants and animals).","<think>
+Alright, I need to translate ""Cell"" into French. Okay, let's think about this. ""Cell"" can mean a few different things depending on the context. In biology, it usually refers to a cell, like a living cell. In computing or networking, it might refer to a network cell.
+
+First, for the general case, in biology, the term is ""cellule."" That's straightforward. So if someone is talking about cells in a scientific context, I should use ""cellule.""
+
+But sometimes people use ""cell"" more casually, like in everyday language when they're referring to an area or region that serves a particular purpose. For example, you might say there's a cell in the city for public services or shopping. In French, that would be ""cité,"" which can mean both a town and a specific functional zone within a larger urban area.
+
+So I need to consider the context in which ""Cell"" is used because it could change the translation. If it's biological, go with ""cellule."" If it's referring to an area or region, use ""cité.""
+
+Since the user provided just the word ""Cell"" without any additional context, maybe they're looking for the general term used in biology. So I'll stick with translating it as ""cellule.""
+
+Wait, but sometimes people also refer to a cell as a compartment or space divided by walls, like in architecture or urban planning. In that case, ""cellule"" might still apply since cells are often enclosed spaces.
+
+I should make sure the translation is accurate and fits the context. Since I don't have more details, providing both possibilities would be better, but if only one is needed, probably ""cellule.""
+
+Also, considering the user asked for a continuous line without any breaks or extra characters, just the translated text.
+
+So final decision: If it's about biology, translate to ""cellule."" If it's about an area/region, use ""cité.""
+</think>
+
+Cellule","<think>
+Alright, so I need to translate this text into French. Let me read it again carefully.
+
+""The cell is the fundamental structural and functional unit of life.""
+
+Okay, starting with ""The cell..."" Maybe ""La cellule"" would be a good translation. Then ""is the fundamental..."" Perhaps ""est la单元e structurale et fonctionnelle fondamentale de la vie."" Wait, I should check if ""单元e"" is appropriate here. It means ""unit"" in this context.
+
+Next part: ""All living organisms are made up of cells, which can be unicellular (single-celled organisms) or multicellular (such as plants and animals).""
+
+So, translating that... ""Tous les organismes vivants sont composés de cellules, qui peuvent être unicellulaires ou multicellulaires (comme les Plantes et les animaux)."" That seems correct.
+
+Putting it all together: 
+
+""La cellule est l'单元e structurale et fonctionnelle fondamentale de la vie. Tous les organismes vivants sont composés de cellules, qui peuvent être unicellulaires ou multicellulaires (comme les Plantes et les animaux).""
+
+I think that's accurate and flows well in French.
+</think>
+
+La cellule est l'单元e structurale et fonctionnelle fondamentale de la vie. Tous les organismes vivants sont composés de cellules, qui peuvent être unicellulaires ou multicellulaires (comme les Plantes et les animaux)."
+DNA,"DNA (deoxyribonucleic acid) is a molecule that carries the genetic instructions used in the growth, development, and functioning of all living organisms. It consists of two strands that coil around each other to form a double helix.","<think>
+Alright, so I need to translate ""DNA"" into French. Hmm, where do I start? Well, I know that DNA stands for Deoxyribonucleic Acid. But how is that translated?
+
+I remember that in French scientific terms, certain prefixes and suffixes are used. Let me think... ""Deoxyribo-"" sounds like a prefix here. Maybe it's something like ""décane""? No, wait, that's for hydrocarbons.
+
+Wait, no. I think the correct term is ""décabioxyridine"" or maybe not. Alternatively, perhaps it's ""décaroy?"" That doesn't sound right either.
+
+Hold on, maybe I should break it down differently. ""Denoxyribo..."" No, that still doesn't make sense.
+
+Let me consider if ""DNA"" is a common abbreviation in French. Maybe they have a specific term for it in biology or genetics. Oh! I think it's simply translated as ""ADN,"" just like how it's used in other languages without the full explanation.
+
+So putting it together, ""DNA"" translates to ""ADN"" in French. That seems straightforward.
+</think>
+
+ADN","<think>
+Alright, I need to translate this text about DNA into French. Let me start by reading through it carefully.
+
+The first sentence is explaining what DNA does: it carries genetic instructions for growth, development, and function in all living organisms. In French, ""DNA"" is spelled ""d'oxyribonucleique."" So that's straightforward.
+
+Next part mentions two strands coiling into a double helix. The word ""strands"" translates to ""cordelettes,"" I think. And the structure they form is called a ""diamant."" Putting it all together, it should be something like "" Il s'agit d'une molécule portant les instructions génétiques utilisées dans le développement, l'implantation et la fonctionnement de tous les organismes vivants.""
+
+Wait, maybe I can make it smoother. Instead of ""Il s'agit d'une,"" perhaps a more natural French phrase would be better.
+
+Then the second sentence: two strands coil around each other to form a double helix. In French, that could be ""Les deux cordelettes tournent autour de themselves pour former un diamant à double tournant."" Hmm, not sure about ""à double tournant,"" maybe just ""diamant.""
+
+Putting it all together without line breaks or extra characters: ""D'oxyribonucleique est une molécule portant les instructions génétiques utilisées dans le développement, l'implantation et le fonctionnement de tous les organismes vivants. Les deux cordelettes tournent autour themselves pour former un diamant à double tournant.""
+
+Wait, the original might use ""double helix,"" which is the term for the structure in English. The French equivalent would be ""diamant à double tournant."" I think that's accurate.
+
+Let me check if the translations make sense and are grammatically correct. Yes, it looks good. I'll go with this translation.
+</think>
+
+D'oxyribonucleique est une molécule portant les instructions génétiques utilisées dans le développement, l'implantation et le fonctionnement de tous les organismes vivants. Les deux cordelettes tournent autour themselves pour former un diamant à double tournant."
+RNA,"RNA (ribonucleic acid) is a molecule similar to DNA but typically single-stranded. RNA plays a key role in translating the genetic information from DNA into proteins, with types such as mRNA, tRNA, and rRNA.","<think>
+Okay, so I need to translate ""RNA"" into French. Hmm, I remember that RNA stands for Ribonucleic Acid. In French, they might just use the same abbreviation since it's a scientific term. Let me think... Does ""RNA"" have a direct translation in French? Or is it commonly referred to by its acronym?
+
+I recall that in some languages, like Spanish, it's still called RNA. Similarly, in French, I think it's just RNA as well because it's an internationally recognized abbreviation. So probably, the correct translation would be ""RNA"".
+
+Wait, maybe there's a specific term? Let me double-check. No, in scientific contexts, especially biology, they use the same abbreviations regardless of language. So no need to translate further; RNA is RNA.
+
+I should make sure that I'm only outputting the translated text without any line breaks or extra characters. The user wants it as a single continuous line. So I'll just write ""RNA"" in French, which is still ""RNA"".
+</think>
+
+RNA","<think>
+Okay, so I need to translate this text about RNA into French. Let me start by reading through the original passage carefully.
+
+The first sentence is ""RNA (ribonucleic acid) is a molecule similar to DNA but typically single-stranded."" So I know that in French, ""RNA"" becomes ""RNAbien"", right? Wait, no, actually, sometimes RNA is written as ""rNucleique"" or maybe just ""RNA"". Hmm. I think the correct term is ""RNAbien"" because it's a proper noun referring to ribonucleic acid.
+
+Next part: ""is similar to DNA but typically single-stranded."" So that translates to ""est similaire au ADN, mais généralement à une chaîne unique."" 
+
+Then the second sentence: ""RNA plays a key role in translating the genetic information from DNA into proteins."" That would be ""RNAbien joue un rôle central dans la traduction de l'information génétique du ADN en des protéines.""
+
+Now, for types like mRNA, tRNA, and rRNA. So ""mRNA"" is ""messager RNA"", which becomes ""messenger-RNA"". But wait, in French, do they use ""messenger-rna"" or is it ""messenger RNA""? Maybe just ""messenger-RNA"".
+
+Similarly, ""tRNA"" would be ""transfert-RNA"" and ""rRNA"" as ""ribosyme-RNA"". So putting that all together.
+
+I need to make sure the translation flows well in one continuous line without any line breaks. Let me piece it all together now.
+</think>
+
+RNAbien est un分子仿效ADN, généralement à une chaîne unique, et joue un rôle central dans la traduction de l'information génétique du ADN en des protéines, avec des types comme le mRNA, le tRNA et le rRNA."
+Protein,"Proteins are large, complex molecules made up of amino acids. They perform a vast array of functions within organisms, including catalyzing reactions (enzymes), providing structure to cells, and regulating biological processes.","<think>
+Alright, so I need to translate the word ""Protein"" into French and provide just the translation as a single continuous line without any line breaks or extra characters. Hmm, let's think about this step by step. 
+
+First, I know that ""protein"" is related to biology, specifically referring to a type of biological molecule. In French, when translating technical terms like this, it's important to use the correct scientific terminology. From what I remember, the term for protein in French is ""proteine."" That sounds familiar, but wait—did I mix that up with another word? Maybe ""protéine,"" with an accent on the 'e'? Sometimes scientists use different accents depending on the region or the specific context.
+
+I should double-check to make sure. Let me visualize my notes: yes, there was a note saying ""proteine"" without an accent and another mentioning ""protéine"" with an acute accent. Now I'm confused because both seem correct in different contexts. But in this case, since it's a straightforward translation of the English word ""protein,"" which is pronounced as /prɒtɪn/, the French equivalent would likely be ""proteine."" However, given that scientific terms often use specific spellings regardless of pronunciation, maybe ""protéine"" is more appropriate.
+
+Wait, but I'm not 100% sure. Let me think about common uses. In biology textbooks in France, do they say ""proteine"" or ""protéine""? Maybe it's a matter of regional variation. If the original text was from a French scientific source, it might be ""protéine."" But since I don't have context here, perhaps safer to go with the most common version.
+
+Alternatively, I can consider that in official translations, technical terms are often standardized. So maybe ""proteine"" is more widely recognized as the direct translation of ""protein."" Also, considering that ""protein"" ends with an 'e' sound, but no silent letters here, so ""proteine"" seems right.
+
+To be thorough, I can recall other similar translations: for example, ""atom"" translates to ""atome,"" which is spelled without an accent. So following that pattern, ""protein"" would be ""proteine."" Therefore, I think the correct translation is ""proteine.""
+
+Okay, time to put it all together. The instruction was to output only the translation in one continuous line without any breaks or extra characters. So just ""proteine.""
+</think>
+
+proteine","<think>
+Alright, I've got this query where the user wants me to translate a text about proteins into French. Let me break it down.
+
+First, they provided the English text: ""Proteins are large, complex molecules made up of amino acids. They perform a vast array of functions within organisms, including catalyzing reactions (enzymes), providing structure to cells, and regulating biological processes."" 
+
+The user has specific instructions here. They want only the translation output without any line breaks or extra characters. So I need to make sure it's all in one continuous line.
+
+I'll start by translating each part carefully. ""Proteins are large, complex molecules"" becomes ""Les protéines sont des molécules volumineuses et complexes."" That sounds right.
+
+Next, the part about amino acids: ""made up of amino acids"" translates to ""faits de multiples acides aminés."" Yep, that's accurate.
+
+Then, for the functions: ""They perform a vast array of functions within organisms"" should be ""Ils effectuent une variété vaste d' fonctions dans les organisme."" I think ""fonction"" here is appropriate as it includes various roles like catalysis, structure, and regulation.
+
+Breaking down the functions into individual points:
+- Catalyzing reactions (enzymes): This becomes ""(catérisent les réactions, comme enzymes).""
+Wait, but enzymes are a specific type of catalyst. So to include that in parentheses would make sense.
+- Providing structure: ""rapportent la structure des cellules."" That makes sense.
+- Regulating biological processes: "" réguler les processus biologiques."" I think adding ""- réguler"" is correct.
+
+Putting it all together, I have to ensure the translation flows well and fits in one line. Let me check for any possible mistakes or awkward phrasing. It seems smooth enough.
+
+I should also consider if ""molécules"" needs pluralization but since they already said ""proteins,"" which are multiple molecules, so maybe it's okay as is. Alternatively, could be ""molécules multiples,"" but the user wrote just ""molécules."" Maybe that's intended to keep it concise.
+
+Also, checking for any grammatical errors in French. Everything seems correct here: tense, articles... Alright, I think this should meet the user's needs.
+</think>
+
+Les protéines sont des molécules volumineuses et complexes faites de multiples acides aminés. Ils effectuent une variété vaste d' fonctions dans les organisme, y compris (catérisant les réactions, comme enzymes), rapportent la structure des cellules et réguler les processus biologiques."
+Enzyme,"Enzymes are biological catalysts that speed up chemical reactions in living organisms. They are typically proteins that lower the activation energy of a reaction, allowing it to proceed more quickly and efficiently.","<think>
+Okay, so I just got a query where the user wants me to translate ""Enzyme"" into French. They specified that the output should be only the translation, no line breaks or extra characters, and it has to fit in one continuous line. Hmm, let's break this down.
+
+First off, I need to understand what an enzyme is. Enzymes are biological catalysts, right? So they play a crucial role in chemical reactions within cells, especially metabolism. Now, the user just wants ""Enzyme"" translated. That seems straightforward, but maybe there's more to it.
+
+I should check if there's a specific term used for enzymes in French. Sometimes scientific terms have standard translations to maintain accuracy and clarity. I recall that ""enzyme"" is often translated as ""enzymen"" or simply ""enzyme"" itself sometimes works too. Let me double-check that.
+
+Wait, no, actually, in many cases, especially in formal contexts, the exact translation might be preferred. So maybe ""enzymen"" is more precise. Alternatively, using ""enzyme"" directly could work because it's a commonly used term internationally. But I should make sure to get the correct spelling as per French usage.
+
+I also need to consider if there are any regional differences or specific contexts where a different term might be preferred. However, since the user didn't specify, I'll stick with the standard translation. So ""enzymen"" seems appropriate here.
+
+The user emphasized not adding any line breaks or extra characters beyond what's necessary—just one continuous string of text. That means no commas, spaces between words that separate phrases, or anything like that. It needs to be a smooth, single-line translation.
+
+Putting it all together, the correct French word for enzyme is ""enzymen."" I'll make sure there are no other characters before or after this word and nothing in between except possibly an apostrophe if needed, but I don't think an apostrophe is necessary here. So the final output should be just ""enzymen.""
+</think>
+
+enzymen","<think>
+Okay, so I need to translate this text about enzymes into French. Let me read through it again carefully.
+
+The first sentence says, ""Enzymes are biological catalysts that speed up chemical reactions in living organisms."" I know that ""enzymes"" is already in English but here we're writing in French, so it's ""enzymes"" as ""enzygmes"" isn't correct. Wait no, wait—the user provided the text with ""enzymes,"" so maybe they just want me to use that exact term or translate from their original which might be incorrect.
+
+Wait, looking back, the initial prompt says: ""Text: Enzymes are..."" So I guess it's given in English and needs to be translated into French. The correct French word for enzymes is ""enzymes"" as they are, but actually, the proper term is still ""enzymes,"" so maybe just translate that phrase.
+
+Next sentence: ""They are typically proteins that lower the activation energy of a reaction."" I know that ""proteins"" in French is ""proteines."" Lowering activation energy can be translated as ""which réduisent l'énergie d'activation de la réaction.""
+
+Putting it all together, ensuring no line breaks or extra characters. So first sentence: ""Les enzymees sont des catalyseurs biologiques qui accélèrent les réactions chimiques dans les organismes vivants."" Wait, no—it's not ""enzymes"" but the correct term is still ""enzymes,"" so maybe it should be ""Les enzymes are...""
+
+Wait, hold on. The user provided ""Enzymes are..."" in English and wants a French translation. So I need to make sure that 'enzymes' remains as they are because translating might not change them unless there's an incorrect word.
+
+Wait no, actually, the correct term for enzymes is still ""enzymes"" regardless of language—so it should remain the same. Therefore, in French, we just translate each part accordingly without changing 'enzymes.'
+
+So first sentence: ""Enzymes are biological catalysts that speed up chemical reactions in living organisms."" So translating directly would be ""Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques dans les organismes vivants.""
+
+Wait, but no—actually, the correct term is still 'enzymes,' so it's just a matter of translation. So first sentence: ""Enzymes are biological catalysts that speed up chemical reactions in living organisms."" So French would be ""Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques dans les organismes vivants.""
+
+Then the second sentence: ""They are typically proteins that lower the activation energy of a reaction, allowing it to proceed more quickly and efficiently."" Translating this: ""Elles sont généralement des protéines qui réduisent l'énergie d'activation d'une réaction, permettant cette dernière de se dérouler plus rapidement et de manière plus efficace.""
+
+Wait, but the user said to output only the translation without any line breaks or extra characters. So I need to combine both sentences into one continuous line.
+
+So putting it all together: ""Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques dans les organismes vivants. Elles sont généralement des protéines qui réduisent l'énergie d'activation d'une réaction, permettant cette dernière de se dérouler plus rapidement et de manière plus efficace.""
+
+I think that's correct.
+</think>
+
+Les enzymes sont des catalyseurs biologiques qui accélèrent les réactions chimiques dans les organismes vivants. Elles sont généralement des protéines qui réduisent l'énergie d'activation d'une réaction, permettant cette dernière de se dérouler plus rapidement et de manière plus efficace."
+Lipid,"Lipids are a diverse group of hydrophobic or amphipathic molecules that include fats, oils, phospholipids, and sterols. They serve as energy storage, structural components of cell membranes, and signaling molecules, and are essential for maintaining cell integrity and function.","<think>
+Alright, I need to translate ""Lipid"" into French. Let's think about how to do this accurately. 
+
+""Lipid"" refers to a substance in cells and body fluids that is the primary source of energy during physical activity. So, it's important that the translation conveys that meaning.
+
+I know that ""lipide"" is the correct term in French for lipid. To make sure I'm following the instructions correctly, I should provide only the translated text without any line breaks or extra characters. The user specified to output it as a single continuous line, so no spaces or special formatting unless necessary.
+
+Just making sure there's no punctuation needed here, just the word itself in French. So ""Lipid"" becomes ""Lipide"". 
+
+I don't see any other considerations because the task is straightforward: translate one word without additional elements. 
+
+So the final translation should be simply ""Lipide"".
+</think>
+
+Lipide","<think>
+Alright, so the user has given me a query where they want to translate some English text into French. The instructions specify that I should only output the translation without any line breaks or extra characters, and it needs to fit in one continuous line.
+
+First, I'll read through the text carefully to understand its content. It's about lipids, their types, functions, and importance in cells. The user is probably looking for an accurate translation since they're dealing with scientific terms.
+
+I need to make sure that technical terms like ""hydrophobic,"" ""amphipathic,"" ""phospholipids,"" and ""sterols"" are correctly translated into French. For instance, ""lipides"" seems correct here because it's a common term in French for lipids. I should check if there's an established translation for these terms to maintain consistency.
+
+Next, the sentence structure needs to be preserved as much as possible while ensuring readability in French. The original text is quite long and complex, so breaking it into shorter sentences might help, but since the user wants one continuous line without breaks, I'll have to keep everything together.
+
+I should also pay attention to terms like ""energy storage,"" which would translate to ""stockage d'énergie,"" ensuring that the meaning remains clear. The part about cell membranes and signaling molecules can be translated as ""composants structuraux des membranes cellaires"" and ""molecules de signalisation,"" respectively.
+
+Finally, I'll review the entire translation to make sure it's smooth and accurate without any extra words or line breaks. It's important that the final output meets all the user's specifications precisely.
+</think>
+
+Lipides sont un groupe diversifié de molécules hydrophiles ou amphipathiques comprenant des huiles, des huises, les phospholipides et les sérices, qui servent à l'energIEau stockage, à la structure des membranes cellaires et à l'action comme molécules de signalisation, essentielles pour maintenir l'intégrité et la fonctionnalité des细胞."
+Glycan,"A glycan is a carbohydrate or saccharide, typically a polymer of sugar molecules, that can be attached to proteins or lipids in the form of glycosylation. Glycans are involved in a variety of biological processes, including cell-cell communication, immune response, and protein folding.","<think>
+Alright, so I need to translate ""Glycan"" into French. Hmm, glycan... I remember that glycol is used in chemistry and biology terms. Let me think about how that translates. In French, ""glycine"" is a common term related to glycogen, but wait, here we're talking about glycan itself.
+
+Wait, glycan refers to a carbohydrate or polysaccharide made up of glucose monomers linked together. So in French, the equivalent would be something like ""glycosan."" But I'm not entirely sure if that's the standard term. Maybe it's better to look for an established translation.
+
+Alternatively, sometimes in scientific contexts, they might use ""polynérigüe"" or another term, but I think ""glycosan"" is more accurate. Let me double-check. In French chemistry and biology literature, glycan translates directly as ""glycane."" Wait, no, that's glycine.
+
+No, wait, glycane is the covalent polymer of glucose in solution, while glycosan might be the term used for the solid form or structure. Alternatively, maybe it's just referred to as ""polynégrigüe"" but I'm not sure. 
+
+Alternatively, perhaps in French scientific terms, it's called ""glycosan."" But I think more accurately, since glycine is the amino acid counterpart, glycan might translate directly as ""glycane,"" which can be spelled out with an 'e.' So maybe ""glycane"" is the correct term. 
+
+But wait, in French, ""glycane"" is a noun that refers to the molecule formed by linking glucose units. Yes, I think that's right. So the translation would be ""Glycan"" becomes ""Glycane."" But just to make sure, because sometimes terms can have specific translations depending on context.
+
+Alternatively, another thought: in French chemistry, they might use ""polynégrigüe,"" but I'm not certain. However, considering that glycosan is less common and glycane is more likely the direct translation, perhaps it's better to go with that.
+</think>
+
+Glycane","<think>
+Alright, so I need to translate this text about glycan into French. The user specified that I should output only the translation without any line breaks or extra characters, all in one continuous line. 
+
+First, I'll read through the original text carefully to understand the context and key points. Glycans are carbohydrates attached to proteins or lipids, involved in processes like cell communication, immune response, and protein folding.
+
+I should make sure that technical terms like ""glycan"" are correctly translated. In French, glycan is still ""glycanne."" Then, I'll look for proper nouns or specific terms related to the biological functions mentioned. 
+
+The sentence structure needs to flow naturally in French while maintaining the original meaning. Words like ""typically"" can be translated as "" généralement,"" and terms like ""polymer of sugar molecules"" would translate to ""polymère de molécules de suides."" 
+
+I also need to ensure that terms like ""glycosylation"" are accurately rendered, which is ""glycosylation"" in French. The functions described should be clear: cell-cell communication becomes ""la communication entre les cellules,"" immune response is ""la réponse immunitaire,"" and protein folding is ""le pliement des protéines.""
+
+I'll make sure the translation doesn't have any line breaks or extra spaces, keeping everything as one continuous line. Let me piece it all together now.
+</think>
+
+A glycanne est un carbohydrate ou saccharide, généralement un polymère de molécules de suides, qui peut être attaché à des protéines ou des lipides sous la forme de glycosylation. Les glycannes sont impliquées dans une variété de processus biologiques, y compris la communication entre les cellules, la réponse immunitaire et le pliement des protéines."
+Chromosome,"A chromosome is a long, thread-like structure made of DNA and proteins. It carries the genetic information of an organism, and humans have 23 pairs of chromosomes in their cells.","<think>
+Alright, I need to translate the word ""Chromosome"" into French. Let's break it down. ""Chromo-"" is a prefix meaning color or chromatic. In biology, we often see this prefix used in terms like chromatin or chromatids. So, when combined with ""-somes,"" which refers to structures that carry genetic material, I think the correct term would be ""chro-mosomme."" That sounds right because it combines the chromatic aspect with the structure.
+
+Wait, but is there a more commonly used term? Let me think... Oh, sometimes people use ""chromo-some"" as well. But in French scientific terms, maybe ""chro-mosomme"" is preferred to maintain consistency with other similar terms. I should check if that's standard or if it's too informal.
+
+Alternatively, perhaps the correct translation would be ""chro-mosome."" Yes, that sounds more natural and widely accepted in scientific contexts. So I'll go with ""Chromosome"" translates to ""Chromo-some,"" but maybe just ""chro-mosome"" for brevity.
+</think>
+
+Chromosome","<think>
+Alright, so I need to translate this text into French without any extra characters or line breaks. Let me read through it carefully.
+
+First sentence: ""A chromosome is a long, thread-like structure made of DNA and proteins."" Okay, ""chromosome"" translates directly to ""ch chromatide"". ""Thread-like"" can be ""sous la forme d'une fils"". ""Made of DNA and proteins"" would be ""faits de DNA et de protéines"".
+
+Putting that together: ""Le chromatide est une structure longue sous la forme d'une fils faite de DNA et de protéines.""
+
+Second sentence: ""It carries the genetic information of an organism, and humans have 23 pairs of chromosomes in their cells."" So ""carries"" is ""porte"". ""Genetic information"" becomes ""l'information génétique"". ""Humans have 23 pairs of chromosomes"" translates to ""Les humains ont 23 couples de chromatides dans leurs cellules.""
+
+Putting it all together without line breaks: ""Le chromatide est une structure longue sous la forme d'une fils faite de DNA et de protéines. Il porte l'information génétique d'un organisme et les humains ont 23 couples de chromatides dans leurs cellules.""
+</think>
+
+Le chromatide est une structure longue sous la forme d'une fils faite de DNA et de protéines. Ilporte l'information génétique d'un organisme et les humains ont 23 couples de chromatides dans leurs cellules."
+Mitochondria,"Mitochondria are organelles found in eukaryotic cells that are responsible for producing energy in the form of ATP. Often called the 'powerhouses' of the cell, mitochondria also play a role in regulating the cell cycle and cell growth.","<think>
+Alright, I need to help the user translate ""Mitochondria"" into French. Let's break it down.
+
+First off, ""mitochondria"" is a Greek term. Mitochondria means ""many powerhouse"" or ""power cells,"" referring to mitochondria in biology. So, I should find the equivalent in French for that.
+
+Looking up translations, ""mitochondria"" translates to ""micronomes."" That's the commonly used term in French scientific contexts for mitochondria. It's concise and fits perfectly.
+
+The user wants only the translation without any line breaks or extra characters. They specified it should be a single continuous line, so I'll make sure not to add anything else like hyphens or spaces between words unless necessary.
+
+I don't think there are any other considerations here since ""micronomes"" is straightforward and widely accepted in French for this term. So, the final translation is just ""micronomes.""
+</think>
+
+micronomes","<think>
+Alright, so I have this query where the user wants me to translate some text into French. The original text is about mitochondria, their functions, and related cellular processes. They specified that the translation should be in one continuous line without any breaks or extra characters.
+
+First, I need to make sure I understand each part of the sentence accurately so the translation remains faithful. Let's break it down:
+
+The first sentence: ""Mitochondria are organelles found in eukaryotic cells that are responsible for producing energy in the form of ATP."" This is straightforward. I know that mitochondria are organelles, eukaryotic refers to cells with a nucleus, and they produce ATP as their main energy source.
+
+The second sentence talks about them being called 'powerhouses' and involved in regulating the cell cycle and growth. The translation should capture those nuances accurately.
+
+I also need to be careful with technical terms like ""ATP"" since it's an acronym. In French scientific contexts, it might just stay as ATP or be translated into its French equivalent if needed, but I think in this case, it's fine to keep it as is unless instructed otherwise.
+
+Another thing is the structure of the sentences. Since the user wants them in one line without line breaks, I have to ensure that when translating, the sentence remains coherent and flows well together in French.
+
+I should also check if there are any specific terms related to organelles or energy production that might need translation. For example, ""ATP"" is universally recognized, so no issues there.
+
+Now, putting it all together: I'll translate each part carefully, making sure the flow makes sense in French and maintains the original meaning. I'll also make sure not to add any extra characters like commas or line breaks.
+</think>
+
+Mitochondrices sont des organelles trouvées dans les细胞 eukaryotes qui produisent de l'énergie sous forme d'ATP. Appelés souvent 'poules à la puissance', elles jouent également un rôle dans la régulation du cycle cellulaire et de la croissance cellulaire."

@@ -1,0 +1,21 @@
+term,definition,term_ZH_mistral:latest,definition_ZH_mistral:latest
+Gene,A gene is a sequence of DNA that contains the instructions for making a specific protein or RNA molecule. Genes are the basic units of heredity and are responsible for determining the traits of an organism.,基因,基因是一段DNA序列，包含指导制造特定蛋白质或RNA分子的指示。基因是遗传的基本单位，负责决定生物体的特征。
+Cell,"The cell is the fundamental structural and functional unit of life. All living organisms are made up of cells, which can be unicellular (single-celled organisms) or multicellular (such as plants and animals).",单胞胶体 (duān kǒng jī tǐ),生命的基本结构和功能单位是细胞。所有生物都是由细胞组成的，这些细胞可以是单个细胞（单细胞生物）还是多细胞（如植物和动物）。
+DNA,"DNA (deoxyribonucleic acid) is a molecule that carries the genetic instructions used in the growth, development, and functioning of all living organisms. It consists of two strands that coil around each other to form a double helix.","蜂鸟基因（DNA）
+
+Translation: 蜂鸟基因（DNA）",生化学体（氨基糖脂酸双链酸）是所有生物成长、发育和功能的遗传指示呈现器，它由两根互卷Turn around each other to form a double helix的分子组成。
+RNA,"RNA (ribonucleic acid) is a molecule similar to DNA but typically single-stranded. RNA plays a key role in translating the genetic information from DNA into proteins, with types such as mRNA, tRNA, and rRNA.","氨基核糖酸酯（Ribonucleic Acid，简称RNA）
+
+Translation: Ribonucleic Acid (RNA)",氨基糖酸（ribonucleic 酸）是类似于 DNA 的分子，但通常单链状。氨基糖酸 在将遗传信息从 DNA 转化为蛋白质方面起着关键作用，其中有如 mRNA、tRNA 和 rRNA 等类型。
+Protein,"Proteins are large, complex molecules made up of amino acids. They perform a vast array of functions within organisms, including catalyzing reactions (enzymes), providing structure to cells, and regulating biological processes.",蛋白质,蛋白质是由氨基酸组成的大型、复杂分子，它在生物体内执行了巨大的功能范围，包括引发反应（酶）、提供细胞结构以及调控生物过程。
+Enzyme,"Enzymes are biological catalysts that speed up chemical reactions in living organisms. They are typically proteins that lower the activation energy of a reaction, allowing it to proceed more quickly and efficiently.",酶素（Enzyme）,生物分子速成剂，是生物体内化学反应的加速剂。它们通常是蛋白质，可以降低反应的激活能energy，使其进行更快和高效。
+Lipid,"Lipids are a diverse group of hydrophobic or amphipathic molecules that include fats, oils, phospholipids, and sterols. They serve as energy storage, structural components of cell membranes, and signaling molecules, and are essential for maintaining cell integrity and function.",脂体,脂体是一组水疏或半质子性的分子，包括脂肪、油料、磷脂和 sterols。它们作为能量存储、细胞内膜结构素以及信号分子，并且对维持细胞完整性和功能至关重要。
+Glycan,"A glycan is a carbohydrate or saccharide, typically a polymer of sugar molecules, that can be attached to proteins or lipids in the form of glycosylation. Glycans are involved in a variety of biological processes, including cell-cell communication, immune response, and protein folding.","糖蛋白链髓体（Glycans）
+
+Translation: glycoprotein chain (Glycans)",霜腺是一种糖或糖物，通常是糖分的多合体，可以在酶化过程中附加在蛋白质或脂质上。霜腺参与了许多生物过程，包括细胞与细胞交流、免疫反应和蛋白质折叠。
+Chromosome,"A chromosome is a long, thread-like structure made of DNA and proteins. It carries the genetic information of an organism, and humans have 23 pairs of chromosomes in their cells.","染色体
+
+Chromosome -> 染色体 (chróng sè tí)",基因素是由DNA和蛋白质组成的长条状结构。它携带生物体的遗传信息，人类细胞中有23对染色体。
+Mitochondria,"Mitochondria are organelles found in eukaryotic cells that are responsible for producing energy in the form of ATP. Often called the 'powerhouses' of the cell, mitochondria also play a role in regulating the cell cycle and cell growth.","动物Cell中的核外胞质粒，负责细胞能量供应和细胞生命力。
+
+Translated text: mitochondria (in animal cells) is the organelle of cytoplasm, responsible for energy supply and cell survival.",褪色细胞中的器官是由ATP形式的能量产生器，简称为细胞的“发电厂”。
