@@ -20,9 +20,10 @@ LANG_CODES=(
 #MODEL="llama3.2:1b"
 #MODEL="qwen2.5:0.5b"
 #MODEL="qwen2.5:1.5b"
-MODEL="deepseek-r1"
+#MODEL="deepseek-r1"
 #MODEL="deepseek-r1:1.5b"
 #MODEL="gemma3:4b"
+MODEL="mistral:latest"
 
 # Define columns to translate
 COLUMNS=("column1" "column2")  # Change to the columns you want to translate
@@ -32,7 +33,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 # Define input file (fantasy language plus+++)
-INPUT_FILE="$PROJECT_ROOT/data/input.csv"
+INPUT_FILE="$PROJECT_ROOT/data/test_input.csv"
 
 # Loop through all language codes and run the Python script
 for LANG in "${LANG_CODES[@]}"; do
