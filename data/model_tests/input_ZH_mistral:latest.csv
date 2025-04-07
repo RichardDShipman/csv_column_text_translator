@@ -1,0 +1,21 @@
+column1,column2,column1_ZH_mistral:latest,column2_ZH_mistral:latest
+Gene,A gene is a sequence of DNA that contains the instructions for making a specific protein or RNA molecule. Genes are the basic units of heredity and are responsible for determining the traits of an organism.,基因 (Jīyīn),基因是一系列DNA的序列，包含产生特定蛋白质或RNA分子的指示。基因是遗传单位，决定了体形之类的器物。
+Cell,"The cell is the fundamental structural and functional unit of life. All living organisms are made up of cells, which can be unicellular (single-celled organisms) or multicellular (such as plants and animals).",单细胞,细胞是生命的基本构造和功能单位。所有生物都由细胞组成，这些细胞可以单细胞型（单细胞生物）或多细胞型（如植物和动物）。
+DNA,"DNA (deoxyribonucleic acid) is a molecule that carries the genetic instructions used in the growth, development, and functioning of all living organisms. It consists of two strands that coil around each other to form a double helix.","基因颱纹（DNA）
+
+Translation: Genetic Code (DNA)",植物与生物的成长、发育和运作中使用的遗传指示呈现的分子为二糖胺酸（deoxyribonucleic acid）。它由两条绕在每个其他的双螺旋形成。
+RNA,"RNA (ribonucleic acid) is a molecule similar to DNA but typically single-stranded. RNA plays a key role in translating the genetic information from DNA into proteins, with types such as mRNA, tRNA, and rRNA.","氨基特氨酸核糖酸合称RNA，是单链式、多功能的分子，它参与了遗传和蛋白质合成过程中的各种重要作用。
+
+Translation: RNA is called ribonucleic acid, which is a single-stranded and multi-functional molecule. It plays important roles in various processes of inheritance and protein synthesis.",锚体蛋白质酸（ribonucleic 酸）与双链脱氧基酸酸（deoxyribonucleic 酸）类似，但通常单链。RNA 起着关键作用，将 DNA 遗传信息翻译成蛋白质，其种类包括 mRNA、tRNA 和 rRNA。
+Protein,"Proteins are large, complex molecules made up of amino acids. They perform a vast array of functions within organisms, including catalyzing reactions (enzymes), providing structure to cells, and regulating biological processes.",蛋白质 (Pèidànzhì),蛋白质是由氨基酸组成的巨大、复杂分子。它们在生物体内发挥着广泛多样的作用，包括引起反应（enzymes）、为细胞提供结构和调节生物过程。
+Enzyme,"Enzymes are biological catalysts that speed up chemical reactions in living organisms. They are typically proteins that lower the activation energy of a reaction, allowing it to proceed more quickly and efficiently.",酶类,生物分子酶是生命体内加速化学反应的生物活化剂，通常是蛋白质，它能降低反应的激活能力，使其易于进行并高效。
+Lipid,"Lipids are a diverse group of hydrophobic or amphipathic molecules that include fats, oils, phospholipids, and sterols. They serve as energy storage, structural components of cell membranes, and signaling molecules, and are essential for maintaining cell integrity and function.",脂体 (Lìtǐ),脂体是一种各种各样的水性不良或双重性质分子，包括脂肪、油肤、磷脂和 sterols。它们作为能量储存、细胞membranes结构组成物质和信号分子，并且对于维持细胞完整性和功能至关重要。
+Glycan,"A glycan is a carbohydrate or saccharide, typically a polymer of sugar molecules, that can be attached to proteins or lipids in the form of glycosylation. Glycans are involved in a variety of biological processes, including cell-cell communication, immune response, and protein folding.",糖蛋白链酰髓素，简称糖裂体。它是一类由糖团组成的大分子，常被称为抗原，因为它参与免疫反应。,霜糖是一种葡萄糖或糖类，通常是糖分子的多元合物，可以在glycosylation形式下附加到蛋白质或脂料上。霜糖参与了许多生物过程，包括细胞-细胞沟通、免疫反应和蛋白质折叠。
+Chromosome,"A chromosome is a long, thread-like structure made of DNA and proteins. It carries the genetic information of an organism, and humans have 23 pairs of chromosomes in their cells.","染色体
+
+Chromosome translates to ""染色体"" in Chinese.",染色体是一个由DNA和蛋白质组成的长线性结构。它携带生物体的基因信息，人类的细胞中有23对染色体。
+Mitochondria,"Mitochondria are organelles found in eukaryotic cells that are responsible for producing energy in the form of ATP. Often called the 'powerhouses' of the cell, mitochondria also play a role in regulating the cell cycle and cell growth.","微生物体内的器官like兔子精细胞，充当细胞能量供应和细胞信号传递的中心。它们也是细胞遗传物质的重要保存库。
+
+Translation: Mitochondria 为细胞内的器官, like兔子精细胞，负责供应和细胞信号传递的能量以及作为细胞遗传物质重要的保存库。
+
+The Chinese translation of the sentence ""Mitochondria are organelles found within cells, such as rabbit oocytes, that serve as the cell's energy supply and signal transmission center. They also function as an important repository for cellular genetic material."" is: ""微生物体内的器官like兔子精细胞，充当细胞能量供应和细胞信号传递的中心。它们也是细胞遗传物质的重要保存库。""","雌性细胞和有核细胞内的器官体，负责生产ATP形式的能量。它们常被称为细胞的""发电机房""，除了生产能量之外，还参与调节细胞周期和细胞增长。"
